@@ -101,18 +101,6 @@ Some features I'd like to add in the future:
 
 ---
 
-## 📸 Preview
-
-> Add a screenshot or GIF of the extension here.
-
-Example:
-
-```
-screenshots/preview.png
-```
-
----
-
 ## 🙏 Acknowledgements
 
 This project was built as part of the **Scrimba Full Stack Developer Path** to practice JavaScript fundamentals and Chrome Extension development.
